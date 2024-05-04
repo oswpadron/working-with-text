@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](oswpadron.github.io/working-with-text)
 
 
 ## Getting Started
@@ -43,11 +43,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Oswaldo Padrón**
 
 - GitHub: [@oswpadron](https://github.com/oswpadron)
 - Twitter: [@oswpadron21](https://twitter.com/oswpadron21)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oswaldo-padron/)
 
 👤 **Author2**
 
